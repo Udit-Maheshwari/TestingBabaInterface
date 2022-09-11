@@ -1,0 +1,48 @@
+2022-09-05 23:06:21,825 +0530 [main] INFO  (Log4j.java:12) - Click on Element
+2022-09-05 23:06:22,526 +0530 [main] DEBUG (Log4j.java:19) - Click on Button
+2022-09-05 23:06:23,010 +0530 [main] INFO  (Log4j.java:12) - Click on Double click
+2022-09-05 23:06:23,568 +0530 [main] INFO  (Log4j.java:12) - Click on Right Click
+2022-09-10 15:32:44,486 +0530 [main] INFO  (Log4j.java:12) - Click on Element
+2022-09-10 15:32:45,927 +0530 [main] DEBUG (Log4j.java:19) - Click on Button
+2022-09-10 15:32:46,566 +0530 [main] INFO  (Log4j.java:12) - Click on Double click
+2022-09-10 15:32:47,605 +0530 [main] INFO  (Log4j.java:12) - Click on Right Click
+2022-09-10 16:14:04,038 +0530 [main] INFO  (Log4j.java:12) - Click on Element
+2022-09-10 16:14:05,001 +0530 [main] DEBUG (Log4j.java:19) - Click on Button
+2022-09-10 16:14:06,018 +0530 [main] INFO  (Log4j.java:12) - Click on Double click
+2022-09-10 16:14:07,307 +0530 [main] INFO  (Log4j.java:12) - Click on Right Click
+2022-09-10 16:17:38,931 +0530 [main] INFO  (Log4j.java:12) - Click on Element
+2022-09-10 16:17:39,724 +0530 [main] DEBUG (Log4j.java:19) - Click on Button
+2022-09-10 16:17:40,260 +0530 [main] INFO  (Log4j.java:12) - Click on Double click
+2022-09-10 16:17:40,817 +0530 [main] INFO  (Log4j.java:12) - Click on Right Click
+2022-09-10 16:39:35,539 +0530 [main] INFO  (Log4j.java:12) - Click on Element
+2022-09-10 16:39:36,197 +0530 [main] DEBUG (Log4j.java:19) - Click on Button
+2022-09-10 16:39:36,743 +0530 [main] INFO  (Log4j.java:12) - Click on Double click
+2022-09-10 16:39:37,329 +0530 [main] INFO  (Log4j.java:12) - Click on Right Click
+2022-09-10 16:40:19,991 +0530 [main] INFO  (Log4j.java:12) - Click on Element
+2022-09-10 16:40:20,686 +0530 [main] DEBUG (Log4j.java:19) - Click on Button
+2022-09-10 16:40:21,161 +0530 [main] INFO  (Log4j.java:12) - Click on Double click
+2022-09-10 16:40:21,738 +0530 [main] INFO  (Log4j.java:12) - Click on Right Click
+2022-09-10 16:43:32,861 +0530 [main] INFO  (Log4j.java:12) - Click on Element
+2022-09-10 16:43:33,509 +0530 [main] DEBUG (Log4j.java:19) - Click on Button
+2022-09-10 16:43:44,509 +0530 [main] INFO  (Log4j.java:12) - Click on Double click
+2022-09-10 16:43:44,884 +0530 [main] INFO  (Log4j.java:12) - Click on Right Click
+2022-09-10 16:44:23,793 +0530 [main] INFO  (Log4j.java:12) - Click on Element
+2022-09-10 16:44:24,471 +0530 [main] DEBUG (Log4j.java:19) - Click on Button
+2022-09-10 16:44:25,009 +0530 [main] INFO  (Log4j.java:12) - Click on Double click
+2022-09-10 16:44:25,572 +0530 [main] INFO  (Log4j.java:12) - Click on Right Click
+2022-09-10 16:46:14,829 +0530 [main] INFO  (Log4j.java:12) - Click on Element
+2022-09-10 16:46:15,653 +0530 [main] DEBUG (Log4j.java:19) - Click on Button
+2022-09-10 16:46:16,316 +0530 [main] INFO  (Log4j.java:12) - Click on Double click
+2022-09-10 16:46:16,849 +0530 [main] INFO  (Log4j.java:12) - Click on Right Click
+2022-09-10 16:47:06,672 +0530 [main] INFO  (Log4j.java:12) - Click on Element
+2022-09-10 16:47:07,500 +0530 [main] DEBUG (Log4j.java:19) - Click on Button
+2022-09-10 16:47:08,072 +0530 [main] INFO  (Log4j.java:12) - Click on Double click
+2022-09-10 16:47:08,719 +0530 [main] INFO  (Log4j.java:12) - Click on Right Click
+2022-09-10 16:50:01,345 +0530 [main] INFO  (Log4j.java:12) - Click on Element
+2022-09-10 16:50:02,017 +0530 [main] DEBUG (Log4j.java:19) - Click on Button
+2022-09-10 16:50:02,540 +0530 [main] INFO  (Log4j.java:12) - Click on Double click
+2022-09-10 16:50:03,157 +0530 [main] INFO  (Log4j.java:12) - Click on Right Click
+2022-09-10 16:51:17,151 +0530 [main] INFO  (Log4j.java:12) - Click on Element
+2022-09-10 16:51:18,023 +0530 [main] DEBUG (Log4j.java:19) - Click on Button
+2022-09-10 16:51:18,571 +0530 [main] INFO  (Log4j.java:12) - Click on Double click
+2022-09-10 16:51:19,172 +0530 [main] INFO  (Log4j.java:12) - Click on Right Click

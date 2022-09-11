@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="1" name="Test" enabled="false">
+    <classes>
+      <class name="TestingBaba_Test.TextBox_Test"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="1" name="Button_Test" enabled="true">
+    <classes>
+      <class name="TestingBaba_Test.Button_Test"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="1" name="Link_Test" enabled="false">
+    <classes>
+      <class name="TestingBaba_Test.Link_Test"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="1" name="Upload_Test" enabled="false">
+    <classes>
+      <class name="TestingBaba_Test.Upload_Test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
